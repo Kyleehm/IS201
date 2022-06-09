@@ -1,0 +1,32 @@
+body {
+    background-image: url(../assets/images/index-bg.jpg);
+}
+
+ol {
+    font-style: italic;
+}
+
+p {
+    text-align: center;
+}
+
+ul {
+    font-style: italic;
+}
+
+a {
+    text-align: center;
+}
+
+h1 {
+    font-family: cursive;
+    color: black;
+}
+
+.underline {
+    color: lightblue;
+}
+
+.underline {text-decoration: underline;}
+.bold {font-weight: bold;}
+.justify {font-size: large;}
